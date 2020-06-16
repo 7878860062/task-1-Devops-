@@ -1,6 +1,6 @@
 # this is our first task 
 #automate with team work
-# Genterator on list
+# Genterator is make from list
 
 l=[1,2,3,45,56,6,78,975,45,87]
 

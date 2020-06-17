@@ -11,9 +11,12 @@ for i in j
   print(i)
 # build job in jenkins
 <img width="960" alt="j1" src="https://user-images.githubusercontent.com/48556545/84889786-179eac80-b0b7-11ea-8c0b-1f47f4bcc6c0.PNG">
+
 # creating webhook to push automatically
 
 <img width="960" alt="webhook" src="https://user-images.githubusercontent.com/48556545/84890736-69940200-b0b8-11ea-8085-e5c403463d51.PNG">
 
 # consol output is successful
-<img width="960" alt="jconsolop" src="https://user-images.githubusercontent.com/48556545/84890502-1fab1c00-b0b8-11ea-8a4f-9c30b0670c8d.PNG">
+
+<img width="960" alt="success" src="https://user-images.githubusercontent.com/48556545/84891133-0191eb80-b0b9-11ea-9d1d-95d52b02318a.PNG">
+

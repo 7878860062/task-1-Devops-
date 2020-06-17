@@ -1,6 +1,6 @@
-# this is our first task 
-#automate with team work
-# Genterator is make from list
+# this is our first task by team work
+
+# converting list to generator
 
 l=[1,2,3,45,56,6,78,975,45,87]
 

@@ -20,3 +20,5 @@ for i in j
 
 <img width="960" alt="success" src="https://user-images.githubusercontent.com/48556545/84891133-0191eb80-b0b9-11ea-9d1d-95d52b02318a.PNG">
 
+# build docker image by jenkins
+<img width="960" alt="dockerbuild" src="https://user-images.githubusercontent.com/48556545/84903186-65bdab00-b0cb-11ea-83b1-1efbfbe9fbfe.PNG">

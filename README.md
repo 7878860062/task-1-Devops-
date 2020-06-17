@@ -12,6 +12,10 @@ for i in j
 # build job in jenkins
 <img width="960" alt="j1" src="https://user-images.githubusercontent.com/48556545/84889786-179eac80-b0b7-11ea-8c0b-1f47f4bcc6c0.PNG">
 
+# staus of history
+
+<img width="960" alt="update" src="https://user-images.githubusercontent.com/48556545/84903814-2fccf680-b0cc-11ea-94a5-6e3344a606ee.PNG">
+
 # creating webhook to push automatically
 
 <img width="960" alt="webhook" src="https://user-images.githubusercontent.com/48556545/84890736-69940200-b0b8-11ea-8085-e5c403463d51.PNG">

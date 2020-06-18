@@ -1,14 +1,25 @@
-# this is our first task by team work
+# Objective :
 
-# converting list to generator
+Setup up an infrastructure such as there are three teams/environemnts :
 
-l=[1,2,3,45,56,6,78,975,45,87]
+1. Production
+2. Testing
+3. Quality Assurance
+Production Team will deploy the code first, now there is some work going on in the developement team which is to be deployed on testing environment which will be sent to the production only when the QA team approves it.
 
-#check type of variable l
-type(l)
- j=[ x*x   for x in l ]
-for i in j
-  print(i)
+# Requirements :
+
+1. Docker
+   - Image: httpd
+2. Jenkins
+   - Github Plugin
+3. System with 2gb ram (Recommended)
+4. Git and Hooks
+5. Github and Github Webhooks
+6. ngrok
+
+## Screenshots :
+
 # build job in jenkins
 <img width="960" alt="j1" src="https://user-images.githubusercontent.com/48556545/84889786-179eac80-b0b7-11ea-8c0b-1f47f4bcc6c0.PNG">
 

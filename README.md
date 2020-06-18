@@ -19,6 +19,13 @@ Production Team will deploy the code first, now there is some work going on in t
 6. ngrok
 
 ## Screenshots :
+# Git remote add
+<img width="455" alt="git22" src="https://user-images.githubusercontent.com/48556545/85008324-74af6680-b17a-11ea-8d3b-714e5cecfd63.PNG">
+
+#testing  page 
+<img width="960" alt="htmlpage" src="https://user-images.githubusercontent.com/48556545/85008411-97417f80-b17a-11ea-99c9-6e5f4bd60d54.PNG">
+
+
 
 # build job in jenkins
 <img width="960" alt="j1" src="https://user-images.githubusercontent.com/48556545/84889786-179eac80-b0b7-11ea-8c0b-1f47f4bcc6c0.PNG">
@@ -34,6 +41,8 @@ Production Team will deploy the code first, now there is some work going on in t
 # consol output is successful
 
 <img width="960" alt="success" src="https://user-images.githubusercontent.com/48556545/84891133-0191eb80-b0b9-11ea-9d1d-95d52b02318a.PNG">
+  # testing  page 
+<img width="960" alt="htmlpage" src="https://user-images.githubusercontent.com/48556545/85008411-97417f80-b17a-11ea-99c9-6e5f4bd60d54.PNG">
 
 # build docker image by jenkins
 <img width="960" alt="dockerbuild" src="https://user-images.githubusercontent.com/48556545/84903186-65bdab00-b0cb-11ea-83b1-1efbfbe9fbfe.PNG">

@@ -1,3 +1,6 @@
+
+![devops-digram-1](https://user-images.githubusercontent.com/48556545/85008821-1fc02000-b17b-11ea-8df6-2d1e71ad1fa8.png)
+
 # Objective :
 
 Setup up an infrastructure such as there are three teams/environemnts :
